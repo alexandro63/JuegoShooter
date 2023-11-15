@@ -14,7 +14,7 @@
 - **Vargas**: Informante (Diapositiva de investigación)
 - **Joel**: Informante (Diapositiva de investigación)
 - **Mauricio**: Desarrollo y Soporte
-- **Alexandro**: Desarrollo y Mantenimiento (Carrera de Ingeniería de Sistemas, Universidad Salesiana)
+- **Alexandro**: Desarrollo y Mantenimiento (Project management)
 
 ## Descripción del Juego
 
