@@ -2,7 +2,7 @@
 # UNIVERSIDAD SALESIANA
 ## Ing. Lorena Huasco
 
-¡Bienvenido al repositorio del proyecto Inncoders! Somos un equipo dedicado a la creación de un juego educativo centrado en la carrera de Ingeniería de Sistemas en la Universidad Salesiana. Este juego, desarrollado y mantenido por Alexandro, tiene como objetivo hacer que el aprendizaje sea interactivo y divertido.
+¡Bienvenido al repositorio del proyecto Inncoders! Somos un equipo dedicado a la creación de un juego educativo centrado en la carrera de Ingeniería de Sistemas en la Universidad Salesiana. Este juego, desarrollado y mantenido por Inncoders, tiene como objetivo hacer que el aprendizaje sea interactivo y divertido.
 
 ## Integrantes del Equipo
 
