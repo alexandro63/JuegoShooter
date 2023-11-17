@@ -1,8 +1,8 @@
-# Inncoders - Juego Educativo - Ingeniería de Sistemas
+# Innocoders - Juego Educativo - Ingeniería de Sistemas
 # UNIVERSIDAD SALESIANA
 ## Ing. Lorena Huasco
 
-¡Bienvenido al repositorio del proyecto Inncoders! Somos un equipo dedicado a la creación de un juego educativo centrado en la carrera de Ingeniería de Sistemas en la Universidad Salesiana. Este juego, desarrollado y mantenido por Inncoders, tiene como objetivo hacer que el aprendizaje sea interactivo y divertido.
+¡Bienvenido al repositorio del proyecto Inncoders! Somos un equipo dedicado a la creación de un juego educativo centrado en la carrera de Ingeniería de Sistemas en la Universidad Salesiana. Este juego, desarrollado y mantenido por Innocoders, tiene como objetivo hacer que el aprendizaje sea interactivo y divertido.
 
 ## Integrantes del Equipo
 
@@ -48,9 +48,9 @@ Para ejecutar el juego, asegúrate de tener instalado Python y Pygame. Sigue est
 4. **Pausa**: Presiona `P` para pausar el juego.
 5. **Fin del Juego**: Si la barra de semestre se vacía, volverás al menú del juego.
 
-¡Diviértete jugando y aprendiendo con Inncoders!
+¡Diviértete jugando y aprendiendo con Innocoders!
 
 Gracias por ser parte de este proyecto.
 
 Atentamente,
-El equipo Inncoders!......
+El equipo Innocoders!......
